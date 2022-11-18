@@ -9,3 +9,5 @@
 > git commit -m “message” – создание коммита.
 
 ![](https://marketplace-cdn.atlassian.com/files/13cfd7e8-840e-4e45-a28a-512be9b204bf)
+
+[https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html]()
