@@ -65,3 +65,7 @@ git branch branch_name - создание ветки с именем branch_name
 git
 
 git commit -am "message" - объединение двух комад
+
+git checkout  -b <название ветки> - создание ветки и переход к ней
+
+git branch -d <branch_name> - удалить ветку с именем branch_name
