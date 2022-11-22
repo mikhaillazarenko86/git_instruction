@@ -61,3 +61,5 @@ git checkout <название ветки> – переход к другой в
 git branch -d <название ветки> – удалить ветку
 
 git branch branch_name - создание ветки с именем branch_name
+
+git
