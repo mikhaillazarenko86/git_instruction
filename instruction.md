@@ -69,3 +69,6 @@ git commit -am "message" - объединение двух комад
 
 
 git checkout branch_name - переход к ветке с именем branch_name
+git checkout  -b <название ветки> - создание ветки и переход к ней
+
+git branch -d <branch_name> - удалить ветку с именем branch_name
