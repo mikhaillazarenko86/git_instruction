@@ -63,3 +63,5 @@ git branch -d <название ветки> – удалить ветку
 git branch branch_name - создание ветки с именем branch_name
 
 git
+
+git commit -am "message" - объединение двух комад
